@@ -82,12 +82,9 @@ sub usage
     &say ("-------------------------------------------------");
     &say ("					                           		");
     &say ("Usage:					                      	");
-    &say ("$0 -m mandatory [-o optional]	           		");
+    &say ("$0 -m mandatory [-c configFile]	           		");
     &say ("						                            ");
-    &say (" -m long description of optional	        		");
-    &say (" -o brackets around optional options	        	");
-    &say (" -o optional options have defaults       		");
-    &say (" -o This is output file [/etc/ouput]	        	");
+    &say (" -c Specify a Config File                        ");
     &say ("						                           	");
 }
 
