@@ -78,7 +78,7 @@ sub usage
 {
     &say ("						                        	");
     &say ("Sample Script 		                         	");
-    &say ("Copyright (C) 2000-2012		            		");
+    &say ("Copyright (C) 2014 BDHC, Inc	               		");
     &say ("-------------------------------------------------");
     &say ("					                           		");
     &say ("Usage:					                      	");
